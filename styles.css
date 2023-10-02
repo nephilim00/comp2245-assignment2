@@ -136,7 +136,7 @@ aside ul {
   margin-top: 10px; /* Add margin to the top of the <ul> elements */
 }
 aside ul {
-  margin-bottom: 120px; /* Add margin to the top of the <ul> elements */
+  margin-bottom: 120px; /* Add margin to the bottom of the <ul> elements */
 }
 
 aside p {
@@ -144,7 +144,7 @@ aside p {
 }
 
 aside p {
-  margin-bottom: 120px; /* Add margin to the top of the <p> elements */
+  margin-bottom: 120px; /* Add margin to the bottom of the <p> elements */
 }
 
 footer {
